@@ -71,3 +71,28 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+# Install NestJS
+
+Install NestJS
+```
+brew install node
+npm -version
+pm install -g pm2
+npm i -g @nestjs/cli
+npm install -g yarn
+npm install --save @nestjs/swagger
+```
+
+Create Project
+```
+nest new project-name
+```
+
+Run the service (Need to install swagger && change the code in main.ts)
+```
+http://localhost:3000/api
+```
+
+
