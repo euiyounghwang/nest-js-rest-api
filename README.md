@@ -92,7 +92,7 @@ nest new project-name
 
 Run the service (Need to install swagger && change the code in main.ts)
 ```
-http://localhost:3000/api
+http://localhost:4000/api
 ```
 
 
