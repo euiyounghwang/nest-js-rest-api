@@ -83,6 +83,7 @@ pm install -g pm2
 npm i -g @nestjs/cli
 npm install -g yarn
 npm install --save @nestjs/swagger
+npm install @nestjs/elasticsearch @elastic/elasticsearch@7.13.0
 ```
 
 Create Project
